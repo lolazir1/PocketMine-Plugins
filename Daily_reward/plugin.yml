@@ -1,0 +1,10 @@
+name: Daily_Reward
+author:  MCPEVN-TEAM
+version: 1.0
+api: 3.0.0
+main: MCPEVN\Main
+commands: 
+  rw:
+    description: reward command !
+  reward:
+    description: reward command !
