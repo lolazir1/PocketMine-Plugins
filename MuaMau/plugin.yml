@@ -1,0 +1,8 @@
+name: muamau
+author:  MCPEVN-Team
+version: 1.0
+api: 3.0.0
+main: MCPEVN\Main
+commands: 
+  muamau:
+    description: reward command !
